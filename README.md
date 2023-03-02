@@ -3,5 +3,5 @@
 ### Tools used in this project
 ### Workspace: Visual Studio Code
 ### Languages: HTML
-![Home&products](Home&products.png)
-![company&more](company&more.png)
+![Home&products](IMG/Home&products.png)
+![company&more](IMG/company&more.png)
